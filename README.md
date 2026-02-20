@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahimuddin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Automation developer from India</h3>
 
 - 📫 How to reach me **fahimjmi98@gmail.com**
 
